@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kyrie232
 - 👀 I’m interested in learning how to build.
 - 🌱 I’m currently ABC beginner student. 
-- 💞️ I’m I'm not looking to collaborate, im a student who needs to be taught.
+- 💞️ I'm not looking to collaborate, im a student who needs to be taught.
 - 📫 How to reach me a_sparrock@hotmail.com 
 
 <!---
